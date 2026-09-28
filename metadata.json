@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack — Modern Education Management System",
+  "description": "A Professional MIS & Admin Dashboard for Schools, Academies and Educational Institutions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
